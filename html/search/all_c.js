@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['false_20color_20images_0',['False Color Images',['../start-developing.html#start-developing-public-api-creating-false-color-images',1,'Creating False Color Images'],['../troubleshooting.html#troubleshooting-false-color-images',1,'False Color Images']]],
+  ['features_1',['Features',['../features.html',1,'']]],
+  ['fieldofview_2',['fieldOfView',['../classoptris_1_1IRImagerConfig.html#a63dd2f5c73e53de7513e6d0308f3c295',1,'optris::IRImagerConfig']]],
+  ['files_3',['Important Files',['../important-files.html',1,'']]],
+  ['filesystem_4',['Filesystem',['../namespaceoptris.html#a066621759e93f49769234f4dbfa71485aac52cf637478f3656a1fdee5c02324fd',1,'optris']]],
+  ['first_20steps_5',['First Steps',['../basic-usage.html#basic-usage-first-steps',1,'']]],
+  ['fitsinrectangle_6',['fitsInRectangle',['../structoptris_1_1TemperatureRegion.html#a041a5cc40623e76ca32d032a0c9c64ac',1,'optris::TemperatureRegion']]],
+  ['flagstate_7',['FlagState',['../namespaceoptris.html#a23ddb213a1599a8ca715eab2198833f8',1,'optris']]],
+  ['flagstate_2eh_8',['FlagState.h',['../FlagState_8h.html',1,'']]],
+  ['focusmotorposition_9',['focusMotorPosition',['../classoptris_1_1IRImagerConfig.html#aa9bab03593b48ad40ca0bb7f813dc556',1,'optris::IRImagerConfig']]],
+  ['forceflagevent_10',['forceFlagEvent',['../classoptris_1_1IRImager.html#aec7f118538a3958129163499dfaf4621',1,'optris::IRImager']]],
+  ['formats_11',['Formats',['../basic-usage.html#basic-usage-device-configuration-optics-temperature-ranges-video-formats',1,'Optics, Temperature Ranges, Video Formats'],['../basic-usage.html#autotoc_md19',1,'Video Formats']]],
+  ['formats_20definitions_12',['Formats Definitions',['../important-files.html#important-files-format-definitions',1,'']]],
+  ['found_13',['No device found',['../troubleshooting.html#autotoc_md28',1,'']]],
+  ['fourbytes_14',['FourBytes',['../namespaceoptris.html#acd74ce0a25f41cfb780c481217479e66ace341e798c63d9709ad49338fe5bf7c8',1,'optris']]],
+  ['frame_15',['Frame',['../classoptris_1_1Frame.html',1,'optris::Frame'],['../classoptris_1_1Frame.html#af925701c995a8f9c62187adda3b09a4d',1,'optris::Frame::Frame() noexcept'],['../classoptris_1_1Frame.html#a282a7998d63919fa75edc94fb1386149',1,'optris::Frame::Frame(const Frame &amp;)=default'],['../classoptris_1_1Frame.html#a53970111743bedca69dcccaae368867c',1,'optris::Frame::Frame(Frame &amp;&amp;)=default']]],
+  ['frame_2eh_16',['Frame.h',['../Frame_8h.html',1,'']]],
+  ['frameiterator_2eh_17',['FrameIterator.h',['../FrameIterator_8h.html',1,'']]],
+  ['framemetadata_18',['FrameMetadata',['../classoptris_1_1FrameMetadata.html',1,'optris::FrameMetadata'],['../classoptris_1_1FrameMetadata.html#a0f3d5f4758a80361bd3d165357eb3bb5',1,'optris::FrameMetadata::FrameMetadata()']]],
+  ['framemetadata_2eh_19',['FrameMetadata.h',['../FrameMetadata_8h.html',1,'']]],
+  ['framerate_20',['framerate',['../classoptris_1_1IRImagerConfig.html#ab451538779b5391c7e76f776a64d25b1',1,'optris::IRImagerConfig']]],
+  ['frameratecounter_21',['FramerateCounter',['../classoptris_1_1FramerateCounter.html',1,'optris::FramerateCounter'],['../classoptris_1_1FramerateCounter.html#a239d9d0305f34f5485f56c9e1b8f1b10',1,'optris::FramerateCounter::FramerateCounter(double interval=DEFAULT_INTERVAL, unsigned int smoothSize=DEFAULT_SMOOTH_SIZE)'],['../classoptris_1_1FramerateCounter.html#ae71fb0a1ff70a4c68352189cd0a0cbcd',1,'optris::FramerateCounter::FramerateCounter(const FramerateCounter &amp;)=delete'],['../classoptris_1_1FramerateCounter.html#a26ea3edb28e556c6617700e50808202e',1,'optris::FramerateCounter::FramerateCounter(FramerateCounter &amp;&amp;)=delete']]],
+  ['frameratecounter_2eh_22',['FramerateCounter.h',['../FramerateCounter_8h.html',1,'']]],
+  ['fromrawmetadata_23',['fromRawMetadata',['../classoptris_1_1FrameMetadata.html#a84384b89cd1ea20871df56a29e8384ef',1,'optris::FrameMetadata']]]
+];

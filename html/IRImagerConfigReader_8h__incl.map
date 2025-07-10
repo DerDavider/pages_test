@@ -1,0 +1,35 @@
+<map id="IRImagerConfigReader.h" name="IRImagerConfigReader.h">
+<area shape="rect" id="Node000001" title="Contains a static class that reads the SDK configuration XML files." alt="" coords="306,5,484,31"/>
+<area shape="rect" id="Node000002" href="$Api_8h.html" title="Contains defines controlling the Windows DLL export and import of symbols." alt="" coords="37,240,140,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,33,299,50,240,75,181,109,153,130,129,154,117,171,107,190,95,227,90,225,102,188,112,168,125,150,150,126,178,105,238,70,297,45,349,28"/>
+<area shape="rect" id="Node000003" href="$Exceptions_8h.html" title="Contains the exceptions raised by the SDK." alt="" coords="538,240,690,265"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="479,28,585,46,701,73,756,89,804,107,842,128,868,150,878,173,875,193,860,209,837,222,774,239,704,249,703,243,773,234,835,217,857,205,870,190,873,174,863,154,839,132,802,112,754,94,700,78,583,51,478,33"/>
+<area shape="rect" id="Node000007" href="$IRImagerConfig_8h.html" title="Contains a class holding the SDK settings found in the configuration file." alt="" coords="304,79,486,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="398,31,398,65,392,65,392,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="521,313,608,339"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="608,267,582,304,578,301,603,264"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="403,313,462,339"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="585,268,476,311,474,306,584,263"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="632,313,692,339"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="624,264,648,301,644,304,619,267"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="308,107,241,124,208,138,176,154,154,171,135,191,104,230,100,227,131,187,151,167,174,150,205,133,240,119,307,101"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="484,102,535,119,559,133,581,150,594,167,604,187,614,225,609,227,599,189,590,170,577,154,556,137,533,124,482,107"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="304,105,191,124,134,138,82,156,41,177,15,202,9,216,9,230,14,246,26,263,51,281,88,295,136,305,189,313,299,321,389,322,389,328,299,326,188,318,135,311,87,300,48,286,22,267,9,249,4,231,4,215,11,199,38,173,80,151,132,133,190,119,303,100"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="386,240,462,265"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="400,104,422,226,417,227,394,105"/>
+<area shape="rect" id="Node000009" href="$Unicode_8h.html" title="Contains defines handling unicode characters." alt="" coords="433,159,568,185"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="412,102,475,149,472,153,409,106"/>
+<area shape="rect" id="Node000010" href="$TemperaturePrecision_8h.html" title="Contains an enum representing the different temperature precisions and constants denoting invalid tem..." alt="" coords="642,152,854,192"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="447,101,651,146,650,152,446,107"/>
+<area shape="rect" id="Node000011" href="$IpAddress_8h.html" title="Contains a class holding IP v4 address." alt="" coords="187,152,358,192"/>
+<area shape="poly" id="edge14_Node000007_Node000011" title=" " alt="" coords="378,106,315,147,312,142,375,102"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="501,186,492,222,476,267,453,304,448,301,471,264,487,221,496,184"/>
+<area shape="poly" id="edge19_Node000011_Node000002" title=" " alt="" coords="229,194,129,237,127,232,227,190"/>
+<area shape="poly" id="edge20_Node000011_Node000003" title=" " alt="" coords="355,189,551,234,550,240,353,195"/>
+<area shape="poly" id="edge18_Node000011_Node000005" title=" " alt="" coords="294,191,412,302,408,306,291,194"/>
+<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="310,190,391,231,388,236,307,194"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="255,240,311,265"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="277,192,282,226,277,226,272,193"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="164,240,231,265"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="256,194,220,232,216,228,252,190"/>
+</map>

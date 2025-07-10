@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['measurementfield_0',['MeasurementField',['../classoptris_1_1MeasurementField.html#aef72fd806bada94787c713d46664f884',1,'optris::MeasurementField::MeasurementField() noexcept'],['../classoptris_1_1MeasurementField.html#a0b10ee7f1bc7a3e31f248ddd4dab8570',1,'optris::MeasurementField::MeasurementField(int id, int x, int y, int width, int height, float emissivity=1.F, float transmissivity=1.F, float ambientTemperature=INVALID_TEMPERATURE) noexcept'],['../classoptris_1_1MeasurementField.html#a3795905c9215d1399e12ad2a2335aa7d',1,'optris::MeasurementField::MeasurementField(const MeasurementField &amp;rhs)=default'],['../classoptris_1_1MeasurementField.html#a10aaf90897a4a90eb5695e78bf12cb12',1,'optris::MeasurementField::MeasurementField(MeasurementField &amp;&amp;rhs) noexcept=default']]]
+];

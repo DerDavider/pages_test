@@ -1,0 +1,28 @@
+var classoptris_1_1FrameMetadata =
+[
+    [ "FrameMetadata", "classoptris_1_1FrameMetadata.html#a0f3d5f4758a80361bd3d165357eb3bb5", null ],
+    [ "clone", "classoptris_1_1FrameMetadata.html#a11bd29458b85d5d14fd87eb992d46026", null ],
+    [ "fromRawMetadata", "classoptris_1_1FrameMetadata.html#a84384b89cd1ea20871df56a29e8384ef", null ],
+    [ "getCounter", "classoptris_1_1FrameMetadata.html#a3d14cdb7213f0a5bdfdb59ae7a04dc48", null ],
+    [ "getCounterHardware", "classoptris_1_1FrameMetadata.html#af6cfccc1255a5d843d3115d412020c68", null ],
+    [ "getFlagState", "classoptris_1_1FrameMetadata.html#a8148fd4a4c1bc9e48f6494e4c6831eb2", null ],
+    [ "getPifAnalogInputChannelCount", "classoptris_1_1FrameMetadata.html#a0a49f5e0ffeedbe3ce2b169866a1fb4e", null ],
+    [ "getPifAnalogInputValue", "classoptris_1_1FrameMetadata.html#aa6deb35b6dd40368a29a8739ec24b1ec", null ],
+    [ "getPifDigitalInputChannelCount", "classoptris_1_1FrameMetadata.html#adb9185fcf018747f82d5f404c9590896", null ],
+    [ "getPifDigitalInputValue", "classoptris_1_1FrameMetadata.html#a9b00c460c0d629a874c3d26908d1787d", null ],
+    [ "getSize", "classoptris_1_1FrameMetadata.html#adfd94f4f7c8cfaabb9342079069db045", null ],
+    [ "getTemperatureBox", "classoptris_1_1FrameMetadata.html#a70dccd288d7e82906547495035dc5666", null ],
+    [ "getTemperatureChip", "classoptris_1_1FrameMetadata.html#a0ab486af687fbeb38090e19fee90bfc6", null ],
+    [ "getTemperatureFlag", "classoptris_1_1FrameMetadata.html#afa42a49355b0a55b29adc2ae584feec2", null ],
+    [ "getTimestamp", "classoptris_1_1FrameMetadata.html#afae037ee0d57cb94abb19492f978d6c1", null ],
+    [ "getTimestampMedia", "classoptris_1_1FrameMetadata.html#abe6c312aa98ff26f1e79fb4e7622f961", null ],
+    [ "isFrameDataReliable", "classoptris_1_1FrameMetadata.html#afc43c3b1a6d05da6f70c80794557fb0f", null ],
+    [ "setCounters", "classoptris_1_1FrameMetadata.html#a4771a2d62a491c95bd729214ebe82cc0", null ],
+    [ "setFlagState", "classoptris_1_1FrameMetadata.html#abb491b2d8f0de300d4503426e5114209", null ],
+    [ "setPifAnalogInputValue", "classoptris_1_1FrameMetadata.html#ac2820afffa95da2cbbdcea65a9c05a64", null ],
+    [ "setPifDigitalInputValue", "classoptris_1_1FrameMetadata.html#a2d17b72b2d8f1d68d49b5589a9b046e8", null ],
+    [ "setPifInputChannelCounts", "classoptris_1_1FrameMetadata.html#abeddb139e05f76ccc89ae0da60fd2e8e", null ],
+    [ "setSize", "classoptris_1_1FrameMetadata.html#a8d1c77a420e882e580c4cd2b25cccc00", null ],
+    [ "setTemperatures", "classoptris_1_1FrameMetadata.html#aa59cd48bb7ecc06ed4708298f81e5a58", null ],
+    [ "setTimestamps", "classoptris_1_1FrameMetadata.html#a7a56f389e402f8701bdad9ef577311cf", null ]
+];

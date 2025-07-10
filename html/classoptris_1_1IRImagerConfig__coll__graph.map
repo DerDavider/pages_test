@@ -1,0 +1,5 @@
+<map id="optris::IRImagerConfig" name="optris::IRImagerConfig">
+<area shape="rect" id="Node000001" title="Holds the SDK settings found in the configuration file." alt="" coords="5,393,164,679"/>
+<area shape="rect" id="Node000002" href="$classoptris_1_1IpAddress.html" title="Encapsulates an IP v4 address." alt="" coords="17,5,152,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,331,87,377,82,377,82,331"/>
+</map>

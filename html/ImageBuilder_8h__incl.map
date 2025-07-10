@@ -1,0 +1,53 @@
+<map id="ImageBuilder.h" name="ImageBuilder.h">
+<area shape="rect" id="Node000001" title="Contains a class that converts thermal frames into false color images." alt="" coords="140,5,260,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,83,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,33,83,75,81,70,174,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,79,163,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,33,156,70,153,67,187,29"/>
+<area shape="rect" id="Node000004" href="$Api_8h.html" title="Contains defines controlling the Windows DLL export and import of symbols." alt="" coords="561,328,663,353"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,32,190,78,184,144,186,180,192,216,205,249,226,278,247,293,279,306,365,323,461,332,547,336,547,341,461,338,364,328,278,311,245,298,222,282,201,252,187,217,180,181,178,144,184,77,194,31"/>
+<area shape="rect" id="Node000005" href="$ThermalFrame_8h.html" title="Contains a class encapsulating a thermal frame received from a device." alt="" coords="347,79,584,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="243,28,410,72,408,78,242,33"/>
+<area shape="rect" id="Node000015" href="$Image_8h.html" title="Contains a class that encapsulates false color images." alt="" coords="1083,79,1266,104"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="260,21,1070,80,1069,85,260,26"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="478,103,513,151,531,186,542,215,553,244,570,279,596,316,591,319,566,281,548,246,537,217,526,188,508,153,473,106"/>
+<area shape="rect" id="Node000006" href="$Frame_8h.html" title="Contains a class representing a data frame received from a device." alt="" coords="853,159,1035,185"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="535,101,862,155,861,160,535,107"/>
+<area shape="rect" id="Node000013" href="$TemperatureConverter_8h.html" title="Contains a class that converts between temperatures in the internal SDK format and in °C." alt="" coords="287,152,499,192"/>
+<area shape="poly" id="edge16_Node000005_Node000013" title=" " alt="" coords="457,106,422,144,418,140,453,102"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="853,178,806,185,756,197,708,215,664,242,649,258,636,277,621,316,616,314,632,275,645,255,661,238,706,211,755,192,805,180,852,173"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1205,328,1267,353"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1010,182,1081,203,1118,218,1152,238,1194,275,1224,314,1219,318,1190,279,1149,242,1115,223,1079,208,1008,187"/>
+<area shape="rect" id="Node000008" href="$Exceptions_8h.html" title="Contains the exceptions raised by the SDK." alt="" coords="1365,247,1517,273"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="1007,182,1048,189,1360,242,1359,248,1048,195,1006,187"/>
+<area shape="rect" id="Node000012" href="$FrameIterator_8h.html" title="Contains a class that realizes the iteration over Frames." alt="" coords="907,247,1138,273"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="957,183,1005,235,1001,239,953,187"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1303,328,1390,353"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="1429,275,1373,321,1370,317,1426,271"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1501,328,1560,353"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="1456,271,1509,317,1506,321,1453,275"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="1414,328,1474,353"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="1444,273,1446,314,1440,314,1439,273"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="963,275,677,330,676,324,962,270"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="1055,270,1193,321,1191,326,1053,275"/>
+<area shape="poly" id="edge17_Node000013_Node000004" title=" " alt="" coords="415,190,461,232,519,278,582,319,579,323,516,282,458,236,411,194"/>
+<area shape="rect" id="Node000014" href="$TemperaturePrecision_8h.html" title="Contains an enum representing the different temperature precisions and constants denoting invalid tem..." alt="" coords="237,240,449,280"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="384,194,363,229,359,227,380,191"/>
+<area shape="poly" id="edge21_Node000015_Node000004" title=" " alt="" coords="1083,102,948,120,874,135,801,155,702,182,665,203,647,219,629,241,620,259,615,277,612,314,607,314,609,276,615,257,624,239,643,215,662,198,700,177,799,149,872,129,947,114,1083,96"/>
+<area shape="poly" id="edge20_Node000015_Node000007" title=" " alt="" coords="1232,102,1272,120,1290,133,1305,151,1314,173,1317,196,1314,219,1306,243,1283,285,1258,319,1253,316,1278,283,1301,240,1308,218,1312,196,1309,174,1300,153,1287,137,1270,124,1230,107"/>
+<area shape="poly" id="edge22_Node000015_Node000008" title=" " alt="" coords="1231,101,1289,120,1348,150,1373,169,1395,192,1428,234,1424,237,1391,195,1369,173,1345,154,1287,125,1229,107"/>
+<area shape="rect" id="Node000016" href="$Pixel_8h.html" title="Contains a class encapsulating a pixel with three color channels and 8 bits of color depth." alt="" coords="1541,247,1715,273"/>
+<area shape="poly" id="edge23_Node000015_Node000016" title=" " alt="" coords="1224,101,1301,122,1388,149,1502,196,1594,239,1592,244,1500,201,1386,155,1300,127,1222,107"/>
+<area shape="rect" id="Node000018" href="$ImageInfo_8h.html" title="Contains a class holding detail information about the properties of a false color image." alt="" coords="675,247,883,273"/>
+<area shape="poly" id="edge26_Node000015_Node000018" title=" " alt="" coords="1083,103,945,122,884,136,843,154,824,172,809,193,789,235,784,233,804,190,820,168,840,150,882,131,944,117,1083,98"/>
+<area shape="rect" id="Node000019" href="$ImageIterator_8h.html" title="Contains class that realize the iteration over the pixels of false color images." alt="" coords="1059,159,1290,185"/>
+<area shape="poly" id="edge28_Node000015_Node000019" title=" " alt="" coords="1177,104,1177,145,1172,145,1172,104"/>
+<area shape="poly" id="edge24_Node000016_Node000010" title=" " alt="" coords="1615,275,1557,321,1554,317,1612,271"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="1590,328,1666,353"/>
+<area shape="poly" id="edge25_Node000016_Node000017" title=" " alt="" coords="1631,273,1631,314,1625,314,1625,273"/>
+<area shape="poly" id="edge27_Node000018_Node000004" title=" " alt="" coords="756,275,650,325,648,320,753,270"/>
+<area shape="poly" id="edge30_Node000019_Node000004" title=" " alt="" coords="1179,185,1177,232,1169,259,1152,282,1127,294,1081,304,952,320,677,339,676,334,951,315,1081,298,1125,289,1149,278,1164,257,1172,231,1173,185"/>
+<area shape="poly" id="edge29_Node000019_Node000007" title=" " alt="" coords="1195,183,1224,206,1237,221,1248,239,1253,258,1254,279,1247,315,1242,314,1248,278,1248,259,1243,241,1233,224,1220,210,1192,187"/>
+<area shape="poly" id="edge32_Node000019_Node000016" title=" " alt="" coords="1236,182,1530,237,1555,242,1554,247,1529,243,1235,187"/>
+<area shape="poly" id="edge31_Node000019_Node000018" title=" " alt="" coords="1122,187,845,247,844,242,1121,182"/>
+</map>

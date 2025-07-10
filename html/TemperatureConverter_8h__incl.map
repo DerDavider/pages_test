@@ -1,0 +1,7 @@
+<map id="TemperatureConverter.h" name="TemperatureConverter.h">
+<area shape="rect" id="Node000001" title="Contains a class that converts between temperatures in the internal SDK format and in °C." alt="" coords="58,5,237,31"/>
+<area shape="rect" id="Node000002" href="$Api_8h.html" title="Contains defines controlling the Windows DLL export and import of symbols." alt="" coords="5,86,108,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,33,82,79,79,75,132,29"/>
+<area shape="rect" id="Node000003" href="$TemperaturePrecision_8h.html" title="Contains an enum representing the different temperature precisions and constants denoting invalid tem..." alt="" coords="132,79,344,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,29,208,68,204,72,159,33"/>
+</map>
